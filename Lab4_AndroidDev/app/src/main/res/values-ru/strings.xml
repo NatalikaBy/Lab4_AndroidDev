@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">лаб 5</string>
+    <string name="name">Имя</string>
+    <string name="address">Адрес</string>
+    <string name="comment">Комментарий</string>
+
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отменить</string>
+    <string name="edit">Редактировать</string>
+
+    <string name="editSurname">Фамилия</string>
+    <string name="editName">Имя</string>
+    <string name="editAddress">Адрес</string>
+    <string name="editCountry">Страна</string>
+    <string name="editCity">Город</string>
+    <string name="editComment">Комментарий</string>
+
+    <string name="exit">Закрыть</string>
+    <string name="dialog_exit_message">Вы уверены, что хотите выйти?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="dialog_cancel_message">Вы уверены, что хотите отменить?</string>
+</resources>
